@@ -16,5 +16,3 @@ My research interests lie broadly in mathematical biology, dynamical systems, an
 - Circadian Rhythms
 - Mathematical Oncology
 - Dynamical Systems
-- Phase Reduction
-- Isochrons and Isostables
